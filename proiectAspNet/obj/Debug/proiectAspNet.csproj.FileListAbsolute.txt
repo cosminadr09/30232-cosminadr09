@@ -1,0 +1,664 @@
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\ApplicationInsights.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\proiectAspNet.dll.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\csc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\csc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\csc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\csi.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\csi.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\csi.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.AppContext.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Collections.Immutable.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Console.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Diagnostics.Process.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.IO.Compression.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.IO.FileSystem.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.IO.Pipes.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Reflection.Metadata.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Security.AccessControl.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Security.Claims.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Threading.Thread.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.ValueTuple.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Xml.XPath.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\vbc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\vbc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\vbc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\VBCSCompiler.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\roslyn\VBCSCompiler.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Antlr3.Runtime.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\EntityFramework.SqlServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.DependencyCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.Web.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.WindowsServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.ApplicationInsights.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.Google.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Web.Infrastructure.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Newtonsoft.Json.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.Helpers.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.Mvc.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.Optimization.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.WebPages.Deployment.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.WebPages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.WebPages.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\WebGrease.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.Helpers.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.Mvc.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.Optimization.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.WebPages.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.WebPages.Deployment.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\System.Web.WebPages.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Antlr3.Runtime.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Newtonsoft.Json.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\EntityFramework.SqlServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.Google.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.ApplicationInsights.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.DependencyCollector.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.WindowsServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\bin\Microsoft.AI.Web.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.csproj.CoreCompileInputs.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.csproj.CopyComplete
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.Migrations.InitialCreate.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.csproj.GenerateResource.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.Migrations.addfullname.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.Migrations.gender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.Migrations.removeGender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role1.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet\proiectAspNet\obj\Debug\proiectAspNet.csprojResolveAssemblyReference.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\ApplicationInsights.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\proiectAspNet.dll.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\csc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\csc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\csc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\csi.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\csi.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\csi.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.AppContext.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Collections.Immutable.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Console.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Diagnostics.Process.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.IO.Compression.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.IO.FileSystem.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.IO.Pipes.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Reflection.Metadata.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Security.AccessControl.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Security.Claims.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Threading.Thread.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.ValueTuple.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Xml.XPath.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\vbc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\vbc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\vbc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\VBCSCompiler.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\roslyn\VBCSCompiler.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Antlr3.Runtime.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\EntityFramework.SqlServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.DependencyCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.Web.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.WindowsServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.ApplicationInsights.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.Google.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Web.Infrastructure.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Newtonsoft.Json.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.Helpers.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.Mvc.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.Optimization.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.WebPages.Deployment.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.WebPages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.WebPages.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\WebGrease.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.Helpers.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.Mvc.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.Optimization.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.WebPages.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.WebPages.Deployment.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\System.Web.WebPages.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Antlr3.Runtime.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Newtonsoft.Json.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\EntityFramework.SqlServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.Google.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.ApplicationInsights.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.DependencyCollector.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.WindowsServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\bin\Microsoft.AI.Web.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.csprojResolveAssemblyReference.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.Migrations.InitialCreate.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.Migrations.addfullname.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.Migrations.gender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.Migrations.removeGender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role1.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.csproj.GenerateResource.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.csproj.CoreCompileInputs.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.csproj.CopyComplete
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.Migrations.ProductOrderOrderedProduct.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - continuare\proiectAspNet\obj\Debug\proiectAspNet.Migrations.addRecords.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\ApplicationInsights.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\proiectAspNet.dll.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\csc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\csc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\csc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\csi.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\csi.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\csi.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.AppContext.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Collections.Immutable.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Console.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Diagnostics.Process.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.IO.Compression.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.IO.FileSystem.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.IO.Pipes.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Reflection.Metadata.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Security.AccessControl.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Security.Claims.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Threading.Thread.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.ValueTuple.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Xml.XPath.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\vbc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\vbc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\vbc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\VBCSCompiler.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\roslyn\VBCSCompiler.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Antlr3.Runtime.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\EntityFramework.SqlServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.DependencyCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.Web.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.WindowsServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.ApplicationInsights.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.Google.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Web.Infrastructure.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Newtonsoft.Json.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.Helpers.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.Mvc.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.Optimization.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.WebPages.Deployment.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.WebPages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.WebPages.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\WebGrease.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.Helpers.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.Mvc.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.Optimization.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.WebPages.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.WebPages.Deployment.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\System.Web.WebPages.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Antlr3.Runtime.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Newtonsoft.Json.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\EntityFramework.SqlServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.Google.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.ApplicationInsights.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.DependencyCollector.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.WindowsServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\bin\Microsoft.AI.Web.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.csprojResolveAssemblyReference.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.Migrations.InitialCreate.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.Migrations.addfullname.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.Migrations.gender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.Migrations.removeGender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role1.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.Migrations.ProductOrderOrderedProduct.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.Migrations.addRecords.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.csproj.GenerateResource.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.csproj.CoreCompileInputs.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.csproj.CopyComplete
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi\proiectAspNet\obj\Debug\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\ApplicationInsights.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\proiectAspNet.dll.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\csc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\csc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\csc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\csi.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\csi.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\csi.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.AppContext.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Collections.Immutable.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Console.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Diagnostics.Process.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.IO.Compression.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.IO.FileSystem.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.IO.Pipes.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Reflection.Metadata.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Security.AccessControl.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Security.Claims.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Threading.Thread.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.ValueTuple.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Xml.XPath.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\vbc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\vbc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\vbc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\VBCSCompiler.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\roslyn\VBCSCompiler.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Antlr3.Runtime.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\EntityFramework.SqlServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.DependencyCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.Web.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.WindowsServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.ApplicationInsights.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.Google.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Web.Infrastructure.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Newtonsoft.Json.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.Helpers.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.Mvc.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.Optimization.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.WebPages.Deployment.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.WebPages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.WebPages.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\WebGrease.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.Helpers.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.Mvc.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.Optimization.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.WebPages.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.WebPages.Deployment.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\System.Web.WebPages.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Antlr3.Runtime.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Newtonsoft.Json.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\EntityFramework.SqlServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.Google.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.ApplicationInsights.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.DependencyCollector.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.WindowsServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\bin\Microsoft.AI.Web.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.csprojResolveAssemblyReference.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.InitialCreate.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.addfullname.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.gender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.removeGender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role1.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.ProductOrderOrderedProduct.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.addRecords.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.csproj.GenerateResource.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.csproj.CoreCompileInputs.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.csproj.CopyComplete
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.TotalPrice.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.TotalPrice1.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.OrderTotalPrice.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret\proiectAspNet\obj\Debug\proiectAspNet.Migrations.OrderDateFormat.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ApplicationInsights.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\proiectAspNet.dll.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\csc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\csc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\csc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\csi.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\csi.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\csi.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.AppContext.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Collections.Immutable.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Console.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Diagnostics.Process.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.IO.Compression.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.IO.FileSystem.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.IO.Pipes.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Reflection.Metadata.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Security.AccessControl.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Security.Claims.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Threading.Thread.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.ValueTuple.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Xml.XPath.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\vbc.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\vbc.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\vbc.rsp
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\VBCSCompiler.exe
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\roslyn\VBCSCompiler.exe.config
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Antlr3.Runtime.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\EntityFramework.SqlServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.DependencyCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.Web.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.WindowsServer.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.ApplicationInsights.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.Google.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Web.Infrastructure.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Newtonsoft.Json.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Owin.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.Helpers.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.Mvc.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.Optimization.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.WebPages.Deployment.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.WebPages.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.WebPages.Razor.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\WebGrease.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.Helpers.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.Mvc.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.Optimization.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.WebPages.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.WebPages.Deployment.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\System.Web.WebPages.Razor.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Antlr3.Runtime.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Newtonsoft.Json.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\EntityFramework.SqlServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.Facebook.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.Cookies.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.OAuth.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.Google.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.Twitter.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.ApplicationInsights.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.DependencyCollector.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.WindowsServer.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\Microsoft.AI.Web.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.InitialCreate.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.addfullname.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.gender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.removeGender.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.role1.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.ProductOrderOrderedProduct.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.addRecords.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.TotalPrice.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.TotalPrice1.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.OrderTotalPrice.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.OrderDateFormat.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.csproj.GenerateResource.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.csproj.CoreCompileInputs.cache
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.csproj.CopyComplete
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.pdb
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.Client.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.Common.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.Interfaces.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.Text.dll
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.Client.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.Common.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.Interfaces.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\bin\ServiceStack.Text.xml
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.dataContratForSerialization.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.xmlAttributeForSerialization.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.Migrations.xmlAttributeForSerialization1.resources
+D:\FACULTA\AN3\S2\PS\proiect\proiectAspNet - functii noi - calcul pret - repository\proiectAspNet\obj\Debug\proiectAspNet.csprojResolveAssemblyReference.cache
